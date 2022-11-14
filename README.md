@@ -25,4 +25,4 @@
 
 <br/>
 
-<h2>Atualmente me especializando em desenvolvimento Full-Stack. Estudo também desenvolvimento de jogos.</h2>
+<h2>Atualmente me especializando em desenvolvimento Full-Stack.</h2>
