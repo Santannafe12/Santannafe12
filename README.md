@@ -33,8 +33,7 @@
 <br/>
 
 <h2>Estudante de Ciências Exatas na Universidade Federal de Juiz de Fora.</h2>
-<br/>
-<h2>Assessor do dep. de Projetos - CodeJR UFJF</h2>
+<h6>Assessor do dep. de Projetos - CodeJR UFJF</h2>
 <br/>
 
 <h2>Desenvolvedor React. Me especializando em desenvolvimento Full-Stack</h2>
