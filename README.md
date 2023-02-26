@@ -18,13 +18,23 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+<br/>
 
+<h1 style="color: #7a297a"> Ferramentas que utilizo: </h1>
+
+<div style="display: inline-block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 <br/>
 
 <h2>Estudante de Ciências Exatas na Universidade Federal de Juiz de Fora.</h2>
-
+<br/>
+<h2>Assessor do dep. de Projetos - CodeJR UFJF</h2>
 <br/>
 
-<h2>Atualmente me especializando em desenvolvimento Full-Stack.</h2>
+<h2>Desenvolvedor React. Me especializando em desenvolvimento Full-Stack</h2>
