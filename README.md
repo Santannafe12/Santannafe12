@@ -32,8 +32,6 @@
 </div>
 <br/>
 
-<h2>Estudante de Ciências Exatas na Universidade Federal de Juiz de Fora.</h2>
-<h3>Diretor de Projetos - CodeJR UFJF</h2>
-<br/>
+<h2>Diretor de Projetos em Code Empresa Junior de Computação - Desenvolvedor Next/Fullstack</h2>
+<h3>Estudante de Computação na Universidade Federal de Juiz de Fora.</h2>
 
-<h2>Desenvolvedor React/Node. Me especializando em desenvolvimento Full-Stack</h2>
