@@ -1,4 +1,6 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
+<br />
+<p>Estudante da área de computação na UFJF. Também sou Diretor de Projetos na Code Empresa Junior de Computação.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sant-anna-95b13b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.santanna_/)
@@ -28,7 +30,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 <br/>
-
-<h2>Diretor de Projetos em Code Empresa Junior de Computação - Desenvolvedor Next/Fullstack</h2>
-<h3>Estudante de Computação na Universidade Federal de Juiz de Fora.</h2>
 
