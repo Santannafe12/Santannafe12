@@ -1,7 +1,6 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<br />
 <p>Estudante da área de computação na UFJF. Também sou Diretor de Projetos na Code Empresa Junior de Computação.</p>
-
+<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sant-anna-95b13b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.santanna_/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Leeiscool_/)
