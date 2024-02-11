@@ -1,5 +1,5 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p>Estudante da área de computação na UFJF. Também sou Diretor de Projetos na Code Empresa Junior de Computação.</p>
+<p>Diretor de Projetos na Code Empresa Junior de Computação. Estudante da área de computação na UFJF.</p>
 
 <br />
 
