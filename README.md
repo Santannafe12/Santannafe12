@@ -9,9 +9,6 @@
 
 <br/>
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santannafe12&show_icons=true&theme=radical)
-
-
 <h1 style="color: #7a297a"> Tecnologias que utilizo: </h1>
 
 <div style="display: inline-block">
