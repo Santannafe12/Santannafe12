@@ -7,8 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.santanna_/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Leeiscool_/)
 
-<br/>
-
 <h1 style="color: #7a297a"> Tecnologias que utilizo: </h1>
 
 <div style="display: inline-block">
