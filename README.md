@@ -19,13 +19,5 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <br/>
-
-<h1 style="color: #7a297a"> Ferramentas que utilizo: </h1>
-
-<div style="display: inline-block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
 <br/>
 
