@@ -18,7 +18,8 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
-
+<br />
+<br />
 <p>Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, nas linguagens Javascript e Typescript. Sou estudante de Ciência da Computação na UFJF, onde também exerço cargo de Diretor de Projetos na Code Empresa Junior de Computação, aumentando meu conhecimento sobre desenvolvimento e liderança.
 Atualmente trabalho como Diretor de Projetos, onde lidero uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros. Estou em constante aprendizado exercendo este cargo.
 <br />
