@@ -1,5 +1,5 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p>Diretor de Projetos na Code Empresa Junior de Computação. Estudante da área de computação na UFJF.</p>
+<p style="font-size: 14px">Diretor de Projetos na Code Empresa Junior de Computação. Estudante da área de computação na UFJF.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sant-anna-95b13b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.santanna_/)
@@ -15,7 +15,7 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <br />
-<p>Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, nas linguagens Javascript e Typescript. Sou estudante de Ciência da Computação na UFJF, onde também exerço cargo de Diretor de Projetos na Code Empresa Junior de Computação, aumentando meu conhecimento sobre desenvolvimento e liderança.
+<p style="font-size: 14px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, nas linguagens Javascript e Typescript. Sou estudante de Ciência da Computação na UFJF, onde também exerço cargo de Diretor de Projetos na Code Empresa Junior de Computação, aumentando meu conhecimento sobre desenvolvimento e liderança.
 Atualmente trabalho como Diretor de Projetos, onde lidero uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros. Estou em constante aprendizado exercendo este cargo.
 <br />
 <br />
