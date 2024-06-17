@@ -22,12 +22,14 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
 
+
 <h2 style="color: #7a297a">
         Estudando:
 </h2>
 <div style="display: inline-block">
         <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+        <img align="center" alt="html5" src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=go&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
