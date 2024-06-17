@@ -1,7 +1,7 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 14px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, na linguagem Typescript. Atualmente trabalho como Diretor de Projetos, onde lidero uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros.</p
+<p style="font-size: 16px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, na linguagem Typescript. Atualmente trabalho como Diretor de Projetos, onde lidero uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros.</p
 <br />
-<p>
+<p style="font-size: 16px">
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
 </p>
 
