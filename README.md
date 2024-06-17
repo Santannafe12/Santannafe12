@@ -1,7 +1,6 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 14px">>Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, nas linguagens Javascript e Typescript. Sou estudante de Ciência da Computação na UFJF, onde também exerço cargo de Diretor de Projetos na Code Empresa Junior de Computação, aumentando meu conhecimento sobre desenvolvimento e liderança.
+<p style="font-size: 14px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, nas linguagens Javascript e Typescript. Sou estudante de Ciência da Computação na UFJF, onde também exerço cargo de Diretor de Projetos na Code Empresa Junior de Computação, aumentando meu conhecimento sobre desenvolvimento e liderança.
 Atualmente trabalho como Diretor de Projetos, onde lidero uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros. Estou em constante aprendizado exercendo este cargo.</p
-<br />
 <br />
 <p>
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
