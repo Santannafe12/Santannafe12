@@ -19,14 +19,14 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-<h4 style="color: #7a297a, font-size: 16px"> Adicionais: </h4>
+<h4 style="color: #7a297a, font-size: 32px"> Adicionais: </h4>
 <div style="display: inline-block">
         <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
 
-<h4 style="color: #7a297a, font-size: 16px">
+<h4 style="color: #7a297a; font-size: 32px">
         Estudando:
 </h4>
 <div style="display: inline-block">
