@@ -5,8 +5,6 @@
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
 </p>                                                                                                                                                                 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sant-anna-95b13b254/)
-
 <h1 style="color: #7a297a"> Principais conhecimentos: </h1>
 
 <div style="display: inline-block">
