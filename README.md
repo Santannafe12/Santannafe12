@@ -3,7 +3,9 @@
 <br />
 <p>
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
-</p>                                                                                                                                                                 
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santannafe12&layout=compact&theme=tokyonight)
 
 <h1 style="color: #7a297a"> Principais conhecimentos: </h1>
 
