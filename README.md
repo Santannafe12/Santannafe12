@@ -5,7 +5,7 @@
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats-five-gamma-86.vercel.app/api?username=Santannafe12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-vercel-lyart-eight.vercel.app/api?username=Santannafe12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 style="color: #7a297a"> Principais conhecimentos: </h1>
 
