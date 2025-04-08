@@ -1,5 +1,5 @@
 ### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 16px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, na linguagem Typescript. Trabalhando atualmente como Engenheiro de Software na Aggressive Solutions. Meus últimos trabalhos foram como Diretor de Projetos, onde liderei uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros. Atualmente trabalhando como Engenheiro de Software.</p
+<p style="font-size: 16px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, na linguagem Typescript. Trabalhando atualmente como Engenheiro de Software na Aggressive Solutions. Meus últimos trabalhos foram como Diretor de Projetos, onde liderei uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação de outros membros. Atualmente trabalhando como Engenheiro de Software na Aggressive Solutions (Texas).</p
 <br />
 <p style="font-size: 16px">
         Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
