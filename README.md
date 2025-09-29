@@ -1,8 +1,8 @@
-### <h1> Olá! Eu Sou o Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 16px">Desenvolvedor Full-Stack desde 2022, possuo grande experiência com projetos web e aplicativos mobile, na linguagem Typescript. Trabalhando atualmente como Engenheiro de Software na Aggressive Solutions. Meus últimos trabalhos foram como Diretor de Projetos, onde liderei uma equipe de projetistas e gerentes responsáveis pelo desenvolvimento da EJ e capacitação tecnica.</p
+### <h1> Hi! I am Felipe Sant'Anna 👋 </h1>
+<p style="font-size: 16px">Full-Stack Developer since 2022, with extensive experience in web and mobile app development using TypeScript. Currently a Software Engineer at Aggressive Solutions. Previously, I led a team of designers and managers as Project Director, overseeing EJ development and technical training.</p
 <br />
 <p style="font-size: 16px">
-        Caso queira entrar em contato, estou disponível através do e-mail: santannafe12@gmail.com
+        📧 santannafe12@gmail.com
 </p>
 
 <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santannafe12&layout=compact&langs_count=6&theme=tokyonight"/></td>
