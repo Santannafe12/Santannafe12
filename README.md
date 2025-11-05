@@ -1,7 +1,7 @@
 ### <h1> Hi! I am Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 16px">Full-Stack Developer since 2022, with extensive experience in web and mobile app development using TypeScript. Currently a Software Engineer at Aggressive Solutions. Previously, I led a team of designers and managers as Project Director, overseeing EJ development and technical training.</p
+<p style="font-size: 17px">Full-Stack Developer since 2022, with extensive experience in web and mobile app development using TypeScript. Currently a Software Engineer at Aggressive Solutions. Previously, I led a team of designers and managers as Project Director, overseeing EJ development and technical training.</p
 <br />
-<p style="font-size: 16px">
+<p style="font-size: 17px">
         📧 santannafe12@gmail.com
 </p>
 
