@@ -1,5 +1,5 @@
-### <h1> Hi! I am Felipe Sant'Anna 👋 </h1>
-<p style="font-size: 17px">Full-Stack Developer since 2022, with extensive experience in web and mobile app development using TypeScript. Currently a Software Engineer at Aggressive Solutions. Previously, I led a team of designers and managers as Project Director, overseeing EJ development and technical training.</p
+### <h1> Oi! Sou o Felipe Sant'Anna 👋 </h1>
+<p style="font-size: 17px">Desenvolvedor Full-Stack desde 2022, com vasta experiência em desenvolvimento de aplicativos web e mobile utilizando majoritariamente TypeScript. Atualmente Engenheiro de Software na Aggressive Solutions. Anteriormente, liderei uma equipe de desenvolvedores e gerentes como Diretor de Projetos, supervisionando o desenvolvimento da Code Empresa Junior na UFJF e a capacitação técnica da mesma. Já realizando o trabalho de Gerente de Projetos também.</p
 <br />
 <p style="font-size: 17px">
         📧 santannafe12@gmail.com
@@ -19,8 +19,9 @@
 
 <h2 style="color: #7a297a"> Adicionais: </h2>
 <div style="display: inline-block">
-        <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
 </div>
