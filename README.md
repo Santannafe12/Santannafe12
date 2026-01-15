@@ -3,9 +3,6 @@
 <br />
 <p style="font-size: 18px">Já atuei profissionalmente e diretamente com o desenvolvimento de plataformas SaaS, Agentes (IA's e LLM), possuindo também o conhecimento nessa área da programação.</p
 <br />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-<p style="font-size: 18px">
-        📧 santannafe12@gmail.com
-</p>
 
 <!-- <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santannafe12&layout=compact&langs_count=6&theme=tokyonight"/></td> -->
 
@@ -36,5 +33,8 @@
         <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+##
+###### Para qualquer contato, santannafe12@gmail.com 
 
 
