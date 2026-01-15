@@ -7,7 +7,7 @@
         📧 santannafe12@gmail.com
 </p>
 
-<td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santannafe12&layout=compact&langs_count=6&theme=tokyonight"/></td>
+<!-- <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santannafe12&layout=compact&langs_count=6&theme=tokyonight"/></td> -->
 
 <h1 style="color: #7a297a"> Principais conhecimentos: </h1>
 
