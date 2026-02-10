@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Felipe Sant'Anna 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Full-Stack Developer/Software Engineer</h3>
 
 <p align="center">
   Full-Stack Engineer specialized in building scalable web applications using <b>TypeScript</b>, <b>React</b>, <b>Vue.js</b> and <b>Node.js</b>.
@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </p>
+
+<br>
 
 ### 👨‍💻 About Me
 
