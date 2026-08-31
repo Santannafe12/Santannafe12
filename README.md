@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack</h3>
 
 <p align="start">
-  Software Engineer with <b>4+ years of experience</b> building SaaS products, backend APIs, data-driven dashboards and web applications.
+  Software Engineer with <b>5+ years of experience</b> building SaaS products, backend APIs, data-driven dashboards and web applications.
   <br>
   Strong experience with <b>TypeScript</b>, <b>Node.js</b>, <b>NestJS</b>, <b>React</b>, <b>Vue.js</b> and <b>PostgreSQL</b>, with a focus on scalable architecture, performance and maintainable software.
 </p>
